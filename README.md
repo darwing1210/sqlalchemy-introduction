@@ -1,4 +1,4 @@
-# Introducción a Python
+# Introducción a SQLAlchemy
 
 Este tutorial es una versión traducida y reducida del tutorial [SQLAlchemy — Python Tutorial
 ](https://towardsdatascience.com/sqlalchemy-python-tutorial-79a577141a91) con fines de compartir con la comunidad

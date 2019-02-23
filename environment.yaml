@@ -1,0 +1,12 @@
+name: sqlalchemy-introduccion
+channels:
+- conda-forge
+- defaults
+dependencies:
+- ipython=6.2.1
+- notebook=5.4.1
+- pip=9.0.1
+- python=3.6.3
+- setuptools=36.6.0
+- sqlalchemy=1.2.18
+- pandas=0.24.1

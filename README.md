@@ -1,6 +1,7 @@
 # Introducción a Python
 
-Este tutorial es una versión traducida y reducida del tutorial [Introduction to Python for Data Science](https://github.com/jseabold/pycon-ds-2018) impartido en Pycon 2018.
+Este tutorial es una versión traducida y reducida del tutorial [SQLAlchemy — Python Tutorial
+](https://towardsdatascience.com/sqlalchemy-python-tutorial-79a577141a91) con fines de compartir con la comunidad
 
 ## Requisitos
 
